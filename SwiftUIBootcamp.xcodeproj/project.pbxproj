@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8794308E2D20B2C300DD043A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 8794308D2D20B2C300DD043A /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		8794308D2D20B2C300DD043A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		87BFC43A2CF7E73B00ACBE61 /* SwiftUIBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +37,7 @@
 		87BFC4312CF7E73B00ACBE61 = {
 			isa = PBXGroup;
 			children = (
+				8794308D2D20B2C300DD043A /* .gitignore */,
 				87BFC43C2CF7E73B00ACBE61 /* SwiftUIBootcamp */,
 				87BFC43B2CF7E73B00ACBE61 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8794308E2D20B2C300DD043A /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
